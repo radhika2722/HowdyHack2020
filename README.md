@@ -11,7 +11,7 @@
   <h3 align="center">iWatchYourBack</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+    Radhika watches your back so you don't have to
     <br />
     <a href="https://github.com/wes-myers/HowdyHack2020"><strong>Explore the docs »</strong></a>
     <br />
@@ -34,7 +34,7 @@
 
 ## About the Project
 
-Approximately 1 in 5 women and 1 in 71 men have experienced either rape or sexual assault in their lifetime according to a 2010 study conducted by the Centers for Disease Control.  
+Approximately 1 in 5 women and 1 in 71 men will be raped in their lifetime according to a 2010 study conducted by the Centers for Disease Control.
 
 
 
