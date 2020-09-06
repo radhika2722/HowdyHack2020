@@ -5,10 +5,10 @@
 <br />
 <p align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="https://as2.ftcdn.net/jpg/02/77/45/89/500_F_277458983_6C5chZcmha2MymgJySMsiqIxJvzxgmVd.jpg" alt="Logo" width="80" height="80">
+    <img src="https://cdn.discordapp.com/attachments/751869678627848263/752173678489239652/553004ae-b20c-4c70-a2a5-96efbab55c7a_200x200.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">iWatchYourBack</h3>
+  <h3 align="center">iGotYourBack</h3>
 
   <p align="center">
     Radhika watches your back so you don't have to
