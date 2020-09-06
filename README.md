@@ -5,7 +5,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="https://cdn.discordapp.com/attachments/751869678627848263/752173678489239652/553004ae-b20c-4c70-a2a5-96efbab55c7a_200x200.png" alt="Logo" width="100" height="100">
+    <img src="https://cdn.discordapp.com/attachments/751869678627848263/752173678489239652/553004ae-b20c-4c70-a2a5-96efbab55c7a_200x200.png" alt="Logo" width="200" height="200">
   </a>
 
   <h3 align="center">iGotYourBack</h3>
