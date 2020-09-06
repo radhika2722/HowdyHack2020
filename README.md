@@ -39,6 +39,9 @@ Approximately 1 in 5 women and 1 in 71 men will experience sexual assault or rap
 ### Introducing iWatchYourBack: an intelligent wearable proximity alarm
 
 #### How It Works
+Version 1.0 of iWatchYourBack features a sonar and camera that attach to your backpack.  These devices integrate with our app to first identify potential threats using a human detection OpenCV script interfacing with the camera then approximate their distance using the sonar.  
+When a potential threat is sensed within a specified distance, your phone and smart watch will continuosly vibrate to warn the user of this potential threat.  This sets the proximity alarm to the "ready" position in which abnormal agitiation of the accelerometer in any device integrated with app including the phone itself will trigger the alarm.  When the alarm is triggered, a noise is played through the speakers at the phone's highest audio level, GPS location is pinned and set to actively track, and the authorities are notified.  
+To mitigate false alarms, there is a small window when the alarm is triggered where the user can deactivate it by using both facial recognition and inputting a PIN number.
 
  
 
