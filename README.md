@@ -38,6 +38,8 @@ Approximately 1 in 5 women and 1 in 71 men will experience sexual assault or rap
 
 ### Introducing iWatchYourBack: an intelligent wearable proximity alarm
 
+#### How It Works
+
  
 
 
