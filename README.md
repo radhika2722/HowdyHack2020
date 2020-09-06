@@ -25,12 +25,16 @@
 </p>
 
 
-## HowdyHack2020 
-
+## Table of Contents
 
 * [About the Project](#about-the-project)
+  *[](#built-with)
 
 
+
+## About the Project
+
+Approximately 1 in 5 women and 1 in 71 men have experienced either rape or sexual assault in their lifetime according to a 2010 study conducted by the Centers for Disease Control.  
 
 
 
