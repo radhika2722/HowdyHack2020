@@ -28,7 +28,7 @@
 ## Table of Contents
 
 * [About the Project](#about-the-project)
-  *[](#built-with)
+* [How It Works](#how-it-works)
 
 
 
