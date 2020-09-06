@@ -42,9 +42,9 @@ Approximately 1 in 5 women and 1 in 71 men will experience sexual assault or rap
 * When the alarm is triggered, a noise is played through the speakers at the phone's highest audio level, GPS location is pinned and set to actively track, and the authorities are notified.  
 * To mitigate false alarms, there is a small window when the alarm is triggered where the user can deactivate it by using both facial recognition and inputting a PIN number.
 
-### Human Detector 
+## Human Detector 
 
-### Sonar 
+## Sonar 
 
  
 
