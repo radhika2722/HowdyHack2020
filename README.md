@@ -34,7 +34,7 @@
 
 ## About the Project
 
-Approximately 1 in 5 women and 1 in 71 men will be raped in their lifetime according to a 2010 study conducted by the Centers for Disease Control.
+Approximately 1 in 5 women and 1 in 71 men will experience sexual assault or rape in their lifetime according to a 2010 study conducted by the Centers for Disease Control.  During that same year, 65,000 individuals were reported missing and in danger indicating they were likely kidnapped.  Even more disturbing, these assaults are most often committed in public spaces at night when the victim is alone and most vulnerable.  So how do you mitigate the risk of becoming such a victim? 
 
 
 
