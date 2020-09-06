@@ -34,7 +34,9 @@
 
 ## About the Project
 
-Approximately 1 in 5 women and 1 in 71 men will experience sexual assault or rape in their lifetime according to a 2010 study conducted by the Centers for Disease Control.  During that same year, 65,000 individuals were reported missing and in danger indicating they were likely kidnapped.  Even more disturbing, these assaults are most often committed in public spaces at night when the victim is alone and most vulnerable.  So how do you mitigate the risk of becoming such a victim? 
+Approximately 1 in 5 women and 1 in 71 men will experience sexual assault or rape in their lifetime according to a 2010 study conducted by the Centers for Disease Control.  During that same year, 65,000 individuals were reported missing and in danger indicating they were likely kidnapped.  Even more disturbing, these assaults are most often committed in public spaces at night when the victim is alone and most vulnerable.   Awareness of your surroundings is, of course, one of if not the most important factor in avoiding becoming a victim, but you can't always be so vigilant.  This raises the question How can you further ensure your safety in such situations when no one is around to help you?
+
+### Introducing iWatchYourBack: an intelligent wearable overwatch 
 
 
 
