@@ -18,7 +18,7 @@
     <br />
     <a href="INSERT LINK TO DEMO VIDEO HERE">View Demo</a>
     ·
-    <a href="(#about-the-project">Next steps</a>
+    <a href=(#about-the-project)>Next steps</a>
     ·
     <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
   </p>
