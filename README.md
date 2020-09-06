@@ -11,7 +11,7 @@
   <h3 align="center">iGotYourBack</h3>
 
   <p align="center">
-    Radhika watches your back so you don't have to
+    We watch your back so you don't have to
     <br />
     <a href="https://github.com/wes-myers/HowdyHack2020"><strong>Explore the docs »</strong></a>
     <br />
